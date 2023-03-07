@@ -1,1 +1,1 @@
-# WanjikuGithu.github.io
+# wanjikugithu.github.io
